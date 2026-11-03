@@ -6,8 +6,7 @@ A clean, modern, and responsive personal blog website built using **only HTML an
  
 ## 🚀 Live Demo
  
-> Add your link here after deployment (e.g. GitHub Pages)
-> `https://blogspotwebo.vercel.app/`
+🔗 [Click here to view the live website](https://blogspotwebo.vercel.app/)
 
 ---
 
